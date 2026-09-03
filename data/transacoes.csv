@@ -1,0 +1,11 @@
+data,categoria,descricao,tipo,valor
+2026-08-01,Renda,Salario Mensal,credito,4200.00
+2026-08-03,Moradia,Aluguel e Condominio,debito,-1550.00
+2026-08-05,Servicos,Energia e Internet,debito,-210.00
+2026-08-08,Alimentacao,Supermercado Mensal,debito,-620.00
+2026-08-12,Transporte,Recarga Transporte Publico,debito,-180.00
+2026-08-15,Investimentos,Aporte Reserva CDB Liquidez Diaria,debito,-500.00
+2026-08-18,Alimentacao,Restaurante Final de Semana,debito,-145.00
+2026-08-22,Saude,Farmacia,debito,-95.00
+2026-08-25,Lazer,Streaming e Assinaturas,debito,-65.00
+2026-08-28,Alimentacao,Feira Semanal,debito,-85.00

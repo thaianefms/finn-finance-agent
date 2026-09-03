@@ -1,0 +1,5 @@
+id_atendimento,data,canal,duvida_usuario,resumo_resposta_finn,status
+101,2026-07-15,chat_app,"Tenho 4000 guardados na poupanca. O que acontece se eu mudar para CDB?","Finn explicou que o CDB rende diariamente 100% do CDI enquanto a poupanca rende mensalmente. Destacou a protecao do FGC ate 250 mil.",Resolvido
+102,2026-07-28,chat_app,"Vi um anuncio de criptomoeda prometendo 10% ao mes garantido. Vale a pena?","Finn alertou que rentabilidade alta e fixa nao existe em renda variavel e reforcou focar na reserva antes de riscos.",Resolvido
+103,2026-08-10,chat_app,"Quanto tempo demora para resgatar o Tesouro Selic se eu precisar do dinheiro?","Finn esclareceu a liquidez D+1 util do Tesouro Direto e a seguranca soberana do Governo Federal.",Resolvido
+104,2026-08-20,chat_app,"Comprei uma passagem no cartao. Devo pagar o minimo ou tirar da reserva?","Finn explicou o efeito bola de neve dos juros rotativos do cartao e orientou priorizar quitar dividas caras.",Resolvido

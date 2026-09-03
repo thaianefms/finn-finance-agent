@@ -1,0 +1,23 @@
+{
+  "nome": "Marina Albuquerque",
+  "idade": 28,
+  "profissao": "Designer Gráfica",
+  "renda_mensal": 4200.00,
+  "perfil_investidor": "conservador",
+  "objetivo_principal": "Montar a reserva de emergência e começar a investir",
+  "patrimonio_total": 8500.00,
+  "reserva_emergencia_atual": 4000.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Completar reserva de emergência (6 meses de custos)",
+      "valor_necessario": 18000.00,
+      "prazo": "2027-06"
+    },
+    {
+      "meta": "Viagem de intercâmbio de curta duração",
+      "valor_necessario": 12000.00,
+      "prazo": "2028-12"
+    }
+  ]
+}

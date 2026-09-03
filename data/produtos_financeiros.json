@@ -1,0 +1,68 @@
+[
+  {
+    "nome": "Tesouro Selic 2029",
+    "categoria": "renda_fixa",
+    "emissor": "Tesouro Nacional",
+    "risco": "baixo",
+    "liquidez": "D+1",
+    "rentabilidade": "100% da Taxa Selic",
+    "aporte_minimo": 35.00,
+    "garantia": "Governo Federal (Risco Soberano)",
+    "indicado_para": "Construção de reserva de emergência e primeiros passos no mercado"
+  },
+  {
+    "nome": "CDB Banco Digital Liquidez Diária",
+    "categoria": "renda_fixa",
+    "emissor": "Banco Múltiplo",
+    "risco": "baixo",
+    "liquidez": "Imediata (diária)",
+    "rentabilidade": "100% do CDI",
+    "aporte_minimo": 1.00,
+    "garantia": "FGC (até R$ 250 mil por CPF)",
+    "indicado_para": "Substituição da caderneta de poupança com liquidez imediata"
+  },
+  {
+    "nome": "LCA Pós-Fixada 90 Dias",
+    "categoria": "renda_fixa",
+    "emissor": "Banco Cooperativo",
+    "risco": "baixo",
+    "liquidez": "Após 90 dias",
+    "rentabilidade": "94% do CDI (Isento de IR)",
+    "aporte_minimo": 500.00,
+    "garantia": "FGC (até R$ 250 mil por CPF)",
+    "indicado_para": "Objetivos de curto a médio prazo para quem não precisa resgatar antes de 3 meses"
+  },
+  {
+    "nome": "Tesouro IPCA+ 2035",
+    "categoria": "renda_fixa",
+    "emissor": "Tesouro Nacional",
+    "risco": "medio",
+    "liquidez": "No vencimento (sujeito à marcação a mercado)",
+    "rentabilidade": "IPCA + 6,2% a.a.",
+    "aporte_minimo": 40.00,
+    "garantia": "Governo Federal (Risco Soberano)",
+    "indicado_para": "Proteção do poder de compra contra a inflação no longo prazo"
+  },
+  {
+    "nome": "Fundo de Investimento Imobiliário (FII Base 10)",
+    "categoria": "renda_variavel",
+    "emissor": "Gestora de Recursos",
+    "risco": "medio_alto",
+    "liquidez": "D+2 (Mercado Secundário / B3)",
+    "rentabilidade": "Variável (dividendos mensais isentos + oscilação da cota)",
+    "aporte_minimo": 10.00,
+    "garantia": "Sem garantia do FGC",
+    "indicado_para": "Investidores moderados que buscam fluxo de proventos e aceitam volatilidade"
+  },
+  {
+    "nome": "ETF de Índice de Ações (Ex: BOVA11)",
+    "categoria": "renda_variavel",
+    "emissor": "Gestora / Bolsa de Valores",
+    "risco": "alto",
+    "liquidez": "D+2",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 120.00,
+    "garantia": "Sem garantia do FGC",
+    "indicado_para": "Perfil arrojado com horizonte de investimento acima de 5 anos"
+  }
+]
