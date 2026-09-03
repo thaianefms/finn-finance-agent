@@ -91,4 +91,4 @@ O assistente foi submetido a uma bateria de testes funcionais documentados em `d
 
 ## 📄 Licença
 
-Este projeto está sob a licença [MIT](LICENSE)[cite: 3].
+Este projeto está sob a licença [MIT](LICENSE).
